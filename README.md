@@ -5,6 +5,7 @@ Here you can check my reading note for 201 course by checking the topics in the 
 ## Table of the redings assigments 
 
 Read#      |      Links
+-----------|-------------
 Read 1     |  [Read 1]()
 Read 2     |  [Read 2]()
 Read 3     |  [Read 3]()
