@@ -6,7 +6,7 @@ Here you can check my reading note for 201 course by checking the topics in the 
 
 Read#      |      Links
 -----------|-------------
-Read 1     |  [Read 1]()
+Read 1     |  [Read 1](https://malekhassan.github.io/reading-notes/Class01)
 Read 2     |  [Read 2]()
 Read 3     |  [Read 3]()
 Read 4     |  [Read 4]()
