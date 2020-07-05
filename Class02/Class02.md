@@ -92,7 +92,7 @@ The comparison symbol                    | the statements | the result
 === is equal value and equal type        |x === 5       |true 
 !=  is not equal                         |x != 8        |true 
 !== is not equal value or not equal type |x !== 5       |false
-this > is greater than                        |x > 8         |false
+this > is greater than                   |x > 8         |false
 < is less than                           |x < 8         |true
-this >= is greater than or equal to           |x >= 8        |false 
+this >= is greater than or equal to      |x >= 8        |false 
 <= is less than or equal to              |x <= 8        |true
