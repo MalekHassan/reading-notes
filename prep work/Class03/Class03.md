@@ -109,3 +109,74 @@ The border-image property is a shorthand property for:
 
 **Definition and Usage : The `box-shadow` property attaches one or more shadows to an element.**
 
+### JavaScript Switch Statement :
+
+**Use the switch statement to select one of many code blocks to be executed.**
+
+**Syntax :**
+```
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+
+```
+
+**This is how it works:**
+- The switch expression is evaluated once.
+- The value of the expression is compared with the values of each case.
+- If there is a match, the associated block of code is executed.
+- If there is no match, the default code block is executed.
+
+### The break Keyword :
+**When JavaScript reaches a `break` keyword, it breaks out of the switch block. This will stop the execution of inside the block.**
+**It is not necessary to break the last case in a switch block. The block breaks (ends) there anyway.**
+
+### The default Keyword :
+**The `default` keyword specifies the code to run if there is no case match:**
+
+
+### JavaScript Loops :
+
+**Loops are handy, if you want to run the same code over and over again, each time with a different value.**
+
+#### Different Kinds of Loops
+**JavaScript supports different kinds of loops:**
+
+1. `for` - loops through a block of code a number of times
+2. `for/in` - loops through the properties of an object
+3. `for/of` - loops through the values of an iterable object
+4. `while` - loops through a block of code while a specified condition is true
+5. `do/while` - also loops through a block of code while a specified condition is true
+
+### The For Loop
+**The for loop has the following syntax:**
+```
+for (statement 1; statement 2; statement 3) {
+  // code block to be executed
+}
+```
+-  Statement 1 is executed (one time) before the execution of the code block.
+
+- Statement 2 defines the condition for executing the code block.
+
+- Statement 3 is executed (every time) after the code block has been executed.
+
+### The While Loop :
+
+**The while loop loops through a block of code as long as a specified condition is true.**
+
+**Syntax**
+
+```
+while (condition) {
+  // code block to be executed
+}
+```
+![loop image](https://www.incredible-web.com/media/7242/loops.png)
