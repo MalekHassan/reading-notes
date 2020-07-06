@@ -168,7 +168,7 @@ for (statement 1; statement 2; statement 3) {
 
 - Statement 3 is executed (every time) after the code block has been executed.
 
-### The While Loop :
+### The While Loop:
 
 **The while loop loops through a block of code as long as a specified condition is true.**
 
