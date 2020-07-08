@@ -10,7 +10,7 @@ Read 1     |  [Read 1](https://malekhassan.github.io/reading-notes/prep%20work/C
 Read 2     |  [Read 2](https://malekhassan.github.io/reading-notes/Class02/Class02)
 Read 3     |  [Read 3](https://malekhassan.github.io/reading-notes/Class03/Class03)
 Read 4     |  [Read 4](https://malekhassan.github.io/reading-notes/Class04/Class04)
-Read 5     |  [Read 5]()
+Read 5     |  [Read 5](https://malekhassan.github.io/reading-notes/Class05/Class05)
 Read 6     |  [Read 6]()
 Read 7     |  [Read 7]()
 Read 8     |  [Read 8]()
