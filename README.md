@@ -15,7 +15,7 @@ Read 6     |  [Read 6](https://malekhassan.github.io/reading-notes/Class06/Class
 Read 7     |  [Read 7](https://malekhassan.github.io/reading-notes/Class07/Class07)
 Read 8     |  [Read 8](https://malekhassan.github.io/reading-notes/Class08/Class08)
 Read 9     |  [Read 9](https://malekhassan.github.io/reading-notes/Class09/Class09)
-Read 10    |  [Read 10]()
+Read 10    |  [Read 10](https://malekhassan.github.io/reading-notes/Class10/Class10)
 Read 11    |  [Read 11]()
 Read 12    |  [Read 12]()
 Read 13    |  [Read 13]()
