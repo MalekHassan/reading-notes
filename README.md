@@ -19,7 +19,7 @@ Read 10    |  [Read 10](https://malekhassan.github.io/reading-notes/Class10/Clas
 Read 11    |  [Read 11](https://malekhassan.github.io/reading-notes/Class11/Class11)
 Read 12    |  [Read 12](https://malekhassan.github.io/reading-notes/Class12/Class12)
 Read 13    |  [Read 13](https://malekhassan.github.io/reading-notes/Class13/Class13)
-Read 14    |  [Read 14](https://malekhassan.github.io/reading-notes/Class14/Class14a)
-Read 15    |  [Read 15](https://malekhassan.github.io/reading-notes/Class14/Class14b)
+Read 14a   |  [Read 14a](https://malekhassan.github.io/reading-notes/Class14/Class14a)
+Read 14b   |  [Read 14b](https://malekhassan.github.io/reading-notes/Class14/Class14b)
 
 ![table of content image](https://notionpress.com/blog/wp-content/uploads/2015/07/table-of-contents1.jpg)
