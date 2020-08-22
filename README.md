@@ -5,6 +5,6 @@
 
 Read#      |      Links
 -----------|-------------
-Code 102 - Intro to Software Development     |  [Read 1](https://malekhassan.github.io/learning-journal/)
-Code 201 - Foundations of Software Development     |  [Read 2](https://malekhassan.github.io/reading-notes/Code201-FoundationsofSoftwareDevelopment/README201.md)
-Code 301 - Intermediate Software Development     |  [Read 3](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/readme.md)
+Code 102 - Intro to Software Development     |  [Content of 102 reading notes](https://malekhassan.github.io/learning-journal/)
+Code 201 - Foundations of Software Development     |  [content of 201 reading notes](https://malekhassan.github.io/reading-notes/Code201-FoundationsofSoftwareDevelopment/README201.md)
+Code 301 - Intermediate Software Development     |  [content of 301 reading notes](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/readme.md)
