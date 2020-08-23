@@ -7,7 +7,7 @@ Here you can check my reading note for **301 course** by checking the topics in 
 Read#      |      Links
 -----------|-------------
 Read 1     |  [Read 1](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/read01)
-Read 2     |  [Read 2]()
+Read 2     |  [Read 2](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/read02)
 Read 3     |  [Read 3]()
 Read 4     |  [Read 4]()
 Read 5     |  [Read 5]()
