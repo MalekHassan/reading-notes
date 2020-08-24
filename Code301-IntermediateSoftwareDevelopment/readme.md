@@ -8,7 +8,7 @@ Read#      |      Links
 -----------|-------------
 Read 1     |  [Read 1](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/read01)
 Read 2     |  [Read 2](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/read02)
-Read 3     |  [Read 3]()
+Read 3     |  [Read 3](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/read03)
 Read 4     |  [Read 4]()
 Read 5     |  [Read 5]()
 Read 6     |  [Read 6]()
