@@ -72,5 +72,3 @@ For most roles, the ability to work with and learn from others and stellar commu
 Many companies that utilize pair programing expect to train fresh hires from CS-degree programs on how they operate to actually deliver a product.
 
 
-# THE END
-
