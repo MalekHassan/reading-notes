@@ -16,7 +16,7 @@ Read 7     |  [Read 7](https://malekhassan.github.io/reading-notes/Code301-Inter
 Read 8     |  [Read 8](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/read08)
 Read 9     |  [Read 9](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/read09)
 Read 10    |  [Read 10](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/read10)
-Read 11    |  [Read 11]()
+Read 11    |  [Read 11](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/read11)
 Read 12    |  [Read 12]()
 Read 13    |  [Read 13]()
 Read 14a   |  [Read 14a]()
