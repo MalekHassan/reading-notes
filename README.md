@@ -8,7 +8,7 @@ Read#      |      Links
 Code 102 - Intro to Software Development     |  [Content of 102 reading notes](https://malekhassan.github.io/learning-journal/)
 Code 201 - Foundations of Software Development     |  [content of 201 reading notes](https://malekhassan.github.io/reading-notes/Code201-FoundationsofSoftwareDevelopment/)
 Code 301 - Intermediate Software Development     |  [content of 301 reading notes](https://malekhassan.github.io/reading-notes/Code301-IntermediateSoftwareDevelopment/)
-Code 401 - Advanced Software Development     |  [content of 301 reading notes](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/)
+Code 401 - Advanced Software Development     |  [content of 401 reading notes](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/)
 
 
 
