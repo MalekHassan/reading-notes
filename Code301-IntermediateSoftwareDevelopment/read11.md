@@ -82,9 +82,7 @@ links:items
 ```
 This JSON object will pass to the view pages/links.ejs. At this point, we use foreach function to iterate the links array and use “<%=” tag to output the properties url and name.
 ```
-<% links.forEach(function(entry) {%>
-<a href="<%= entry.url%>" class="list-group-item text-dark"><%=entry.name%></a>
-<%});%>
+
 ```
 ## Render List
 ```
@@ -94,11 +92,7 @@ This JSON object will pass to the view pages/links.ejs. At this point, we use fo
 <%- include('../template/nav')-%>
 <main role="main" class="inner cover">
 <h1 class="cover-heading">List Example</h1>
-<ul class="list-group">
-<%list.forEach(function(entry) {%>
-<li class="list-group-item text-dark"><%=entry%></li>
-<%});%>
-</ul>
+
 </main>
 <%- include('../template/footer')-%>
 </div>
@@ -126,12 +120,7 @@ document.getElementById('list').classList.add('active');
 </tr>
 </thead>
 <tbody>
-<%table.forEach(function(entry) {%>
-<tr>
-<td><%=entry.name%></td>
-<td><%=entry.url%></td>
-</tr>
-<%});%>
+
 </tbody>
 </table>
 </div>
