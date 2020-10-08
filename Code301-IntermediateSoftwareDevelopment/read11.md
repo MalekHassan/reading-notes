@@ -61,11 +61,7 @@ EJS uses <%- include(‘’)-%> tag to include HTML from other files, in our app
 <%- include('../template/nav')-%>
 <main role="main" class="inner cover">
 <h1 class="cover-heading">Example with Links</h1>
-<ul class="list-group">
-<% links.forEach(function(entry) {%>
-<a href="<%= entry.url%>" class="list-group-item text-dark"><%=entry.name%></a>
-<%})%>
-</ul>
+
 </main>
 <%- include('../template/footer')-%>
 </div>
