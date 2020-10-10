@@ -7,7 +7,7 @@ Here you can check my reading note for **401 course** by checking the topics in 
 Read#      |      Links
 -----------|-------------
 Engineering-Topics     |  [Engineering-Topics](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/Engineering-Topics)
-Read 1     |  [Read 1]()
+Read 1     |  [Read 1](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read01)
 Read 2     |  [Read 2]()
 Read 3     |  [Read 3]()
 Read 4     |  [Read 4]()
