@@ -41,4 +41,13 @@
 * **Continuous Integration (CI)** - A coding philosophy and set of practices that drive development teams to implement small changes as a mechanism to integrate and validate changes. 
 * **Unit Test** - Software testing method where individual units of source doe are tested to determine whether they are fit for use. 
 
+## SQL vs NoSQL
 
+* SQL databases have predefined schema whereas NoSQL databases have dynamic schema for unstructured data.
+
+* SQL databases are vertically scalable whereas the NoSQL databases are horizontally scalable. SQL databases are scaled by increasing the horse-power of the hardware. NoSQL databases are scaled by increasing the databases servers in the pool of resources to reduce the load.
+
+* SQL databases are primarily called as Relational Databases (RDBMS); whereas NoSQL database are primarily called as non-relational or distributed database.
+
+**Example for NoSQL**
+* MangoDB which the most populer than the others and it stors data in JSON like documents.
