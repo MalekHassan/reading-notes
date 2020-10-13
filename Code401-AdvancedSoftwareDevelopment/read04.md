@@ -31,3 +31,14 @@
 * **record** - A collection of fields about the same person, item or object in a database.
 * **document** - A unique set of data stored in a NoSQL database
 * **Object Relation Mapping (ORM)** - A technique for converting data between incompatible systems. This uses object-oriented programming languages. 
+
+# Repository pattern 
+
+Repository pattern separates the data access logic and maps it to the business entities in the business logic. Communication between the data access logic and the business logic  is done through interfaces.
+
+## The separation of data access from business logic have many benefits. Some of them are:
+
+* A lower chance for making programming errors
+* Centralization of the data access logic makes code easier to maintain
+* Reduces duplication of code
+* Business and data access logic can be tested separately
