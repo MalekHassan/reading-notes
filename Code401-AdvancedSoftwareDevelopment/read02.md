@@ -77,3 +77,23 @@ module.exports = function (a, b) {
 - interpreter : Interpreter is a program that executes instructions written in a high-level language. There are two ways to run programs written in a high-level language. The most common is to compile the program; the other method is to pass the program through an interpreter. An interpreter translates high-level instructions into an intermediate form, which it then executes. In contrast, a compiler translates high-level instructions directly into machine language
 
 - compiler : is a computer program that translates computer code written in one programming language (the source language) into another language (the target language).
+
+
+## Preparation Materials
+
+### TDD
+
+Test Driven Development (TDD) is a process for writing software that provably satisfies the software requirements. The process works like this:
+1- Start with a falsifiable stated requirement, e.g., double() should take a number x and return the product of x and 2.
+2- Write a test to prove that the stated requirement is satisfied.
+3- Watch the test fail. This proves that the test won’t produce a false positive, and that the added code is what makes the test pass.
+4- Add the implementation code.
+5- Watch the test pass.
+6- Look over the code and improve it, if necessary, relying on the test to prove that the improved code continues to work as expected.
+**This workflow is commonly known as Red, Green Refactor.**
+
+### Inheritance in JavaScript
+
+Inheritance is an important concept in object oriented programming. In the classical inheritance, methods from base class get copied into derived class.
+
+In JavaScript, inheritance is supported by using prototype object. Some people call it "Prototypal Inheriatance" and some people call it "Behaviour Delegation".
