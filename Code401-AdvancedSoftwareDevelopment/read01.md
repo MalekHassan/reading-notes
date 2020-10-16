@@ -96,5 +96,6 @@ npm is the world’s largest software registry. Open source developers from ever
 # Preview
 1- Which 3 things had you heard about previously and now have better clarity on?
 Node.js , npm and promises 
+
 2- Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 useful method that help us to maipilate in our data 
