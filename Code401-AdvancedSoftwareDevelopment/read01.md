@@ -73,4 +73,28 @@ superagent.post('/api/pet').then(console.log).catch(console.error);
 **the direct answer to the question is mostly yes. When you specify a callback to functions in Node.js, by convention they will be called on another callstack at a later point in time. But if you are using some bad code from someone who didn't know how to follow this convention, there is no guarantee.**
 
 
+## Preparation Materials
+### what is node.js?
+* it is a free open source server environment that runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.) and use JavaScript on the server.
 
+## What is NPM ?
+npm is the world’s largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
+
+# How we can use it and where ?
+* Adapt packages of code for your apps, or incorporate packages as they are.
+* Download standalone tools you can use right away.
+* Run packages without downloading using npx.
+* Share code with any npm user, anywhere.
+* Restrict code to specific developers.
+* Create Orgs (organizations) to coordinate package maintenance, coding, and developers.
+* Form virtual teams by using Orgs.
+* Manage multiple versions of code and code dependencies.
+* Update applications easily when underlying code is updated.
+* Discover multiple ways to solve the same puzzle.
+* Find other developers who are working on similar problems and projects.
+ 
+# Preview
+1- Which 3 things had you heard about previously and now have better clarity on?
+Node.js , npm and promises 
+2- Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+useful method that help us to maipilate in our data 
