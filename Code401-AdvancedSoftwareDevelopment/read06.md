@@ -1,7 +1,5 @@
 # Class-06 Readings: HTTP and REST
 
-[Table of Contents](README.md)
-
 ## Reading, Research, and Discussion
 
 ### HTTP
