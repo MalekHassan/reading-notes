@@ -1,5 +1,44 @@
 ## Express
 
+### What’s the difference between PUT and PATCH?
+
+PUT is a method of modifying resource where the client sends data that updates the entire resource. It is used to set an entity’s information completely. PUT is similar to POST in that it can create resources, but it does so when there is a defined URI. PUT overwrites the entire entity if it already exists, and creates a new resource if it doesn’t exist.
+
+For example, when you want to change the first name of a person in a database, you need to send the entire resource when making a PUT request.
+
+```
+{“first": "John", "last": "Stone”}
+
+```
+
+To make a PUT request, you need to send the two parameters; the first and the last name.
+
+Unlike PUT, PATCH applies a partial update to the resource.
+
+This means that you are only required to send the data that you want to update, and it won’t affect or change anything else. So if you want to update the first name on a database, you will only be required to send the first parameter; the first name.
+
+### Compare and contrast SOAP and ReST
+
+- SOAP uses service interfaces to expose its functionality to client applications while REST uses Uniform Service locators to access to the components on the hardware device.
+- SOAP is a protocol whereas REST is an architectural pattern.
+- SOAP stands for Simple Object Access Protocol whereas REST stands for Representational State Transfer.
+- SOAP only works with XML formats whereas REST work with plain text, XML, HTML and JSON.
+- SOAP cannot make use of REST whereas REST can make use of SOAP.
+- SOAP needs more bandwidth for its usage whereas REST doesn’t need much bandwidth.
+
+### Provide links to 3 services or tools that allow you to “mock” an API for development like json-server.
+
+- Postman
+- Swagger
+- Mirage
+
+## Document the following Vocabulary Terms
+
+- SOAP: is a protocol which was designed before REST and came into the picture. The main idea behind designing SOAP was to ensure that programs built on different platforms and programming languages could exchange data in an easy manner. SOAP stands for Simple Object Access Protocol.
+- ReST Verbs: specify an action to be performed on a specific resource or a collection of resources.
+- CRUD Verbs: major portion of our “uniform interface” constraint and provide us the action counterpart to the noun-based resource.
+- Swagger: Swagger is in essence an Interface Description Language for describing RESTful APIs expressed using JSON.
+
 ### Express Routing
 
 - This is an event driven system
