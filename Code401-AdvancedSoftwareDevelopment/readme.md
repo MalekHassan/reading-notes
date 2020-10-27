@@ -19,7 +19,7 @@ Here you can check my reading note for **401 course** by checking the topics in 
 | Read 10            | [Read 10](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read10)                        |
 | Read 11            | [Read 11](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read11)                        |
 | Read 12            | [Read 12](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read12)                        |
-| Read 13            | [Read 13]()                                                                                                              |
+| Read 13            | [Read 13](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read13)                        |
 | Read 14            | [Read 14]()                                                                                                              |
 | Read 15            | [Read 15]()                                                                                                              |
 
