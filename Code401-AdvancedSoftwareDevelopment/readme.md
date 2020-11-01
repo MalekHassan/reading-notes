@@ -22,8 +22,8 @@ Here you can check my reading note for **401 course** by checking the topics in 
 | Read 13            | [Read 13](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read13)                        |
 | Read 14            | [Read 14](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read14)                        |
 | Read 15            | [Read 15](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read15)                        |
-| Read 14            | [Read 14]()                                                                                                              |
-| Read 14            | [Read 14]()                                                                                                              |
+| Read 14            | [Read 16](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read16)                        |
+| Read 14            | [Read 17](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read17)                        |
 | Read 14            | [Read 14]()                                                                                                              |
 | Read 14            | [Read 14]()                                                                                                              |
 | Read 14            | [Read 14]()                                                                                                              |
