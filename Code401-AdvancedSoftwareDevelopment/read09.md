@@ -1,5 +1,17 @@
 ### API server:
 
+## How does route prefixing work with an external routing module?
+
+**Route grouping is a concept to make the route function that receive same prefix of different requests. The route is being handle from route group.**
+
+## When routing, what’s the difference between app.get(‘/data/:id’) and app.get(‘/data/:name’)?
+
+**The difference is that one is dealing with id and the other is dealing with name in the request params to get data**
+
+## Explain how Express handles routing conflicts?
+
+**routs will be finished in order**
+
 **Application Programming Interface (API)** is a lightweight Web application that allows users to create and expose data APIs from data, without the need for custom development. Through simple point-and-click configuration, user can create and configure access from popular clients like Microsoft Power BI, Salesforce Lightning Connect, SharePoint External Lists, Excel, PowerPivot, and more.
 
 ### Router.param(name, callback)
