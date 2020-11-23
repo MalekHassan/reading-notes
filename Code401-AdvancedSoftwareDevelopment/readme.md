@@ -32,8 +32,18 @@ Here you can check my reading note for **401 course** by checking the topics in 
 | Read 23            | [Read 23](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read29)                        |
 | Read 24            | [Read 24](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read30)                        |
 | Read 24            | [Read 24](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read31)                        |
-| Read 25            | [Read 25]()                                                                                                              |
+| Read 25            | [Read 25](https://malekhassan.github.io/reading-notes/Code401-AdvancedSoftwareDevelopment/read32)                        |
 | Read 26            | [Read 26]()                                                                                                              |
+| Read 27            | [Read 27]()                                                                                                              |
+| Read 27            | [Read 27]()                                                                                                              |
+| Read 27            | [Read 27]()                                                                                                              |
+| Read 27            | [Read 27]()                                                                                                              |
+| Read 27            | [Read 27]()                                                                                                              |
+| Read 27            | [Read 27]()                                                                                                              |
+| Read 27            | [Read 27]()                                                                                                              |
+| Read 27            | [Read 27]()                                                                                                              |
+| Read 27            | [Read 27]()                                                                                                              |
+| Read 27            | [Read 27]()                                                                                                              |
 | Read 27            | [Read 27]()                                                                                                              |
 
 ![table of content image](https://notionpress.com/blog/wp-content/uploads/2015/07/table-of-contents1.jpg)
